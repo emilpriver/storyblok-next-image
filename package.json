@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": "https://github.com/emilpriver/storyblok-next-image",
-  "author": "Emil Privér emil@priver.se",
+  "author": "Emil Privér emil@priver.dev",
   "license": "MIT",
   "private": false,
   "scripts": {
