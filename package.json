@@ -1,0 +1,14 @@
+{
+  "name": "storyblok-next-image",
+  "version": "1.0.0",
+  "description": "Storybok image using next/image for showeing images",
+  "main": "index.tsx",
+  "repository": "https://github.com/emilpriver/storyblok-next-image",
+  "author": "Emil Privér",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "next": "^12.0.10",
+    "react": "^17.0.2"
+  }
+}
