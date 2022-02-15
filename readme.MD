@@ -5,7 +5,7 @@ A simple wrapper around next/image which use the same props but change the loade
 
 Import the package
 ```javascript
-import {transformImage} from 'storyblok-next-image'
+import StoryblokImage from 'storyblok-next-image'
 ```
 
 Then use is like a normal next/imafge
@@ -23,5 +23,5 @@ For more information of props and how to use next/image: https://nextjs.org/docs
 
 This npm package also exports the loader function via
 ```javascript
-import {transformImage} from 'storyblok-next-image'
+import {StoryBlokImageLoader} from 'storyblok-next-image'
 ```

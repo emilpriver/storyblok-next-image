@@ -13,7 +13,7 @@ export const transformImage = (src: string, widthAndHeight: string): string => {
   return imageService + widthAndHeight + path;
 };
 
-const StoryBlokImageLoader: ImageLoader = ({ src, quality, width }) => {
+export const StoryBlokImageLoader: ImageLoader = ({ src, quality, width }) => {
   // Image width and height
   const widthAndHeight = `${width ?? 0}x0`;
 
