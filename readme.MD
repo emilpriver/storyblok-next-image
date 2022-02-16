@@ -8,7 +8,7 @@ Import the package
 import StoryblokImage from 'storyblok-next-image'
 ```
 
-Then use is like a normal next/imafge
+Then use is like a normal next/image
 ```
   <Image
     src={src}

@@ -1,6 +1,7 @@
 {
   "name": "storyblok-next-image",
-  "version": "1.0.2",
+  "keywords": ["next.js", "storyblok", "image", "next image", "storyblok image"],
+  "version": "1.0.3",
   "description": "Storybok image using next/image for showeing images",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
